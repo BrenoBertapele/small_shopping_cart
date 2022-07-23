@@ -1,3 +1,3 @@
 ## small_shopping_cart ##
 
-simple app built with React.js 
+Simple App Built With React.js 
